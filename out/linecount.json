@@ -1,0 +1,71 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "c:\\Users\\gkrjo\\Desktop\\DiscordBot",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2018-07-20 14:42:25",
+            "filesum": 9,
+            "codesum": 2572,
+            "commentsum": 199,
+            "blanksum": 43,
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "botconfig.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "commands\\ahelp"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "commands\\ban.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "commands\\help.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "commands\\kick.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 35,
+                    "comment": 199,
+                    "filename": "index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 2391,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 12,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "utils\\errors.js"
+                }
+            ]
+        }
+    ]
+}

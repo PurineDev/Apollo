@@ -1,0 +1,21 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-07-20 14:42:25
+count workspace : c:\Users\gkrjo\Desktop\DiscordBot
+total files : 9
+total code lines : 2572
+total comment lines : 199
+total blank lines : 43
+
+botconfig.json, code is 4, comment is 0, blank is 1.
+commands\ahelp, code is 17, comment is 0, blank is 4.
+commands\ban.js, code is 24, comment is 0, blank is 3.
+commands\help.js, code is 18, comment is 0, blank is 3.
+commands\kick.js, code is 24, comment is 0, blank is 4.
+index.js, code is 35, comment is 199, blank is 16.
+package-lock.json, code is 2391, comment is 0, blank is 0.
+package.json, code is 19, comment is 0, blank is 0.
+utils\errors.js, code is 40, comment is 0, blank is 12.
+===============================================================================
